@@ -20,5 +20,5 @@ Before deploying the infrastructure, it's a good practice to preview the changes
 
 ```bash
 pulumi preview
-pulumi up 
+pulumi up
 pulumi destroy
